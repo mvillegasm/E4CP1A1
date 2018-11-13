@@ -1,0 +1,114 @@
+body{
+	height: 1500px;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+.uno{
+	height: 25%;
+	background-image: url(images/bg.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 20px;
+}
+#dos{
+	height: 35%;
+}
+#tres{
+	height: 20%;
+	border-top: 1px solid #9e9e9e;
+	border-bottom: 1px solid #9e9e9e;
+}
+#cuatro{
+	height: 20%;
+	width: 700px;
+	margin: auto;
+}
+.borde{
+	border: 1px solid red;
+}
+.logo{
+	height: 50px;
+	float: left;
+}
+.menu{
+	height: 30px;
+	margin-right: 40px;
+	color: #9e9e9e;
+	float: right;
+}
+.titulo{
+	width: 700px;
+	margin: auto;
+	padding-top: 70px;
+	text-align: center;
+	color: white;
+}
+.texto{
+	width: 700px;
+	margin: auto;
+	text-align: center;
+	color: white;
+}
+.boton{
+	    width: 200px;
+		margin: auto;
+}
+.boton_uno{
+	height: 30px;
+	width: 110px;
+	border-width: 0px;
+	margin-right: 5px;
+	color: white;
+	background-color: #1d1df1;
+	border-radius: 5px;
+}
+.boton_dos{
+	height: 30px;
+	width: 75px;
+	border-width: 0px;
+	margin-right: 5px;
+	color: white;
+	background-color: #25b925;
+	border-radius: 5px;
+}
+.pie{
+	width: 700px;
+	margin: auto;
+	text-align: center;
+}
+.boton_tres{
+	width: 110px;
+	margin: auto;
+}
+.subtitulo{
+	width: 700px;
+	margin: auto;
+	padding-top: 40px;
+	text-align: center;
+}
+.imagen{
+	height: 300px;
+    width: 300px;
+    margin: auto;
+    padding-top: 37px;
+}
+.contacto{
+	width: 35%;
+	height: 150px;
+	margin-top: 5%;
+	float: left;
+}
+.suscribirse{
+	width: 60%;
+	height: 150px;
+	margin-top: 5%;
+	margin-left: 10px;
+	float: left;
+}
+.email{
+	width: 185px;
+	height: 50px;
+	float: left;
+}
